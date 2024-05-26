@@ -1,2 +1,2 @@
-# cpsc330_hw9
+# CPSC 330 Applied Machine Learning 
 CPSC 330 HW 9 Submission
